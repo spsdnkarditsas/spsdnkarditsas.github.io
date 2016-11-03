@@ -1,16 +1,29 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
-  url: /search/
+t: 
+ el: 
+   home: 
+     name: "Αρχικη"
+     url: /
+   announcements: 
+     name: "Ανακοινωσεις"
+     url: /anakoinoseis/
+   blog:
+     name: "Ιστολογιο"
+     url: /istologio/
+   anazitisi: 
+     name: "Αναζητηση"
+     url: /anazitisi/
+   about: 
+     name: "Σχετικα με τον συλλογο"
+     url: /sxetika/
+ en: 
+   home: 
+     name: "Home"
+     url: /home/
+   search: 
+     name: "Search"
+     url: /search/
+   about: 
+     name: "About"
+     url: /about/
