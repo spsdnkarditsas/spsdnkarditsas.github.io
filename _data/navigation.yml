@@ -7,16 +7,16 @@ t:
      url: /
    announcements: 
      name: "Ανακοινωσεις"
-     url: /anakoinoseis/
+     url: /ανακοινώσεις/
    blog:
      name: "Ιστολογιο"
-     url: /istologio/
+     url: /ιστολόγιο/
    anazitisi: 
      name: "Αναζητηση"
-     url: /anazitisi/
+     url: /αναζήτηση/
    about: 
      name: "Σχετικα με τον συλλογο"
-     url: /sxetika/
+     url: /σχετικά/
  en: 
    home: 
      name: "Home"
