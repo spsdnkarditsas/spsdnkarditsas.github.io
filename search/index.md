@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Search"
+lang: en
+ref: search
 date: 
 modified:
 excerpt:
