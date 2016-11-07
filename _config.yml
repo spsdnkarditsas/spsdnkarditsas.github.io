@@ -5,7 +5,7 @@ locale: el_GR
 description: Ανακοινώσεις, νέα και πληροφορίες σχετικά με τον σύλλογο και τις δράσεις του
 logo: spsdnkarditsaslogo.svg 
 search: true
-url: https://www.spsdnkarditsas.gr
+url: http://www.spsdnkarditsas.gr
 
 # Jekyll configuration
 
